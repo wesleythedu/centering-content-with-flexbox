@@ -1,0 +1,27 @@
+html {
+  font-size: 16px;
+}
+
+html, body  {
+  height: 100%;
+  margin: none;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url('../img/wow.png') bottom center no-repeat;
+  background-size: cover;
+  font-size: 1em;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  display: flex;
+  align-items: center;
+  font-size: 4em;
+  background: #f16059;
+  padding-left: - 10%;
+  height: 10rem;
+}
